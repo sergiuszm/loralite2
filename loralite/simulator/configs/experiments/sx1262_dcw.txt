@@ -1,0 +1,6 @@
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 5 -b 262144 -n 20 -o sx1262_dcw2/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 10 -b 262144 -n 20 -o sx1262_dcw2/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 20 -b 262144 -n 20 -o sx1262_dcw2/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 40 -b 262144 -n 20 -o sx1262_dcw2/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 74 -b 262144 -n 20 -o sx1262_dcw2/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -dw 39 -dcw 80 -b 262144 -n 20 -o sx1262_dcw2/loralite_256

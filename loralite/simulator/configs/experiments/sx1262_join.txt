@@ -1,0 +1,16 @@
+python3 loraw.py configs/join.json -td 263 -st 266 -o sx1262_join/loralite_263
+python3 loraw.py configs/join.json -td 378 -st 381 -o sx1262_join/loralite_378
+python3 loraw.py configs/join.json -td 502 -st 505 -o sx1262_join/loralite_502
+python3 loraw.py configs/join.json -td 753 -st 756 -o sx1262_join/loralite_753
+python3 loraw.py configs/join.json -td 987 -st 990 -o sx1262_join/loralite_987
+python3 loraw.py configs/join.json -td 1456 -st 1459 -o sx1262_join/loralite_1456
+python3 loraw.py configs/join.json -td 1481 -st 1484 -o sx1262_join/loralite_1481
+python3 loraw.py configs/join.json -td 1533 -st 1536 -o sx1262_join/loralite_1533
+python3 loraw.py configs/join.json -td 1909 -st 1912 -o sx1262_join/loralite_1909
+python3 loraw.py configs/join.json -td 2771 -st 2774 -o sx1262_join/loralite_2771
+python3 loraw.py configs/join.json -td 2864 -st 2867 -o sx1262_join/loralite_2864
+python3 loraw.py configs/join.json -td 3067 -st 3070 -o sx1262_join/loralite_3067
+python3 loraw.py configs/join.json -td 3580 -st 3583 -o sx1262_join/loralite_3580
+python3 loraw.py configs/join.json -td 5371 -st 5374 -o sx1262_join/loralite_5371
+python3 loraw.py configs/join.json -td 6134 -st 6137 -o sx1262_join/loralite_6134
+python3 loraw.py configs/join.json -td 9553 -st 9556 -o sx1262_join/loralite_9553

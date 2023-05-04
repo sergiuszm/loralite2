@@ -1,0 +1,260 @@
+# scenario 4 with ndm 1
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+# scenario 4 with ndm 2
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+# scenario 4 with ndm 3
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+# scenario 4 with ndm 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+# scenario 4 with ndm 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 4
+# scenario 4 with ndm 1 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+# scenario 4 with ndm 2 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+# scenario 4 with ndm 3 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+# scenario 4 with ndm 4 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+# scenario 4 with ndm 5 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 4
+# scenario 5 with ndm 1
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+# scenario 5 with ndm 2
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+# scenario 5 with ndm 3
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+# scenario 5 with ndm 4
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+# scenario 5 with ndm 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -fcrc -scenario 5
+# scenario 5 with ndm 1 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 1 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+# scenario 5 with ndm 2 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 2 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+# scenario 5 with ndm 3 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 3 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+# scenario 5 with ndm 4 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 4 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+# scenario 5 with ndm 5 with disabled parent election
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 150 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 200 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 250 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 300 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 350 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 400 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 450 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 750 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1000 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5
+python3 -m loralite.simulator.simulator configs/config_scenarios.json -td 600 -tni 500 -en 10 -st 86400 -sbs -gto -nt UNKNOWN -di 1500 -ndm 5 -sstf -qonmc -etj -pen -sibbtp 10 -npe -dpe -fcrc -scenario 5

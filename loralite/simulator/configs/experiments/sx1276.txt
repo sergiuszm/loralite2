@@ -1,0 +1,15 @@
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 131072 -n 1 -o sx1276/loralite_128
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 131072 -n 5 -o sx1276/loralite_128
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 131072 -n 10 -o sx1276/loralite_128
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 131072 -n 15 -o sx1276/loralite_128
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 131072 -n 20 -o sx1276/loralite_128
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 262144 -n 1 -o sx1276/loralite_256
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 262144 -n 5 -o sx1276/loralite_256
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 262144 -n 10 -o sx1276/loralite_256
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 262144 -n 15 -o sx1276/loralite_256
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 262144 -n 20 -o sx1276/loralite_256
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 1048576 -n 1 -o sx1276/loralite_1024
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 1048576 -n 5 -o sx1276/loralite_1024
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 1048576 -n 10 -o sx1276/loralite_1024
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 1048576 -n 15 -o sx1276/loralite_1024
+python3 loraw.py configs/loraw_sx1276.json -c -u -dw 20 -dcw 20 -b 1048576 -n 20 -o sx1276/loralite_1024

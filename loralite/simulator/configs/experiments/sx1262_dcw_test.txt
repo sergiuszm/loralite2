@@ -1,0 +1,14 @@
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 5 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 10 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 15 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 20 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 25 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 30 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 35 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 40 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 45 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 50 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 55 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 60 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 65 -n 20 -s -o dcw_test/128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 39 -dcw 70 -n 20 -s -o dcw_test/128

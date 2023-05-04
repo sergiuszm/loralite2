@@ -1,0 +1,77 @@
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 1 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 5 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 10 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 15 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 20 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 25 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 30 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 35 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 40 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 45 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 50 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 55 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 131072 -nn 60 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_128
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 1 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 5 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 10 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 15 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 20 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 25 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 30 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 35 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 40 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 45 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 50 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 55 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 262144 -nn 60 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_256
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 1 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 5 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 10 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 15 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 20 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 25 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 30 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 35 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 40 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 45 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 50 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 55 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 524288 -nn 60 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_512
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 1 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 5 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 10 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 15 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 20 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 25 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 30 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 35 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 40 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 45 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 50 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 55 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -u -d -b 1048576 -nn 60 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_optimal/loralite_1024
+python3 -m loralite.simulator.simulator configs/config.json -l -b 65536 -nn 1 -fcrc -o paper_sbs/sx1262_optimal/lorawan_64
+python3 -m loralite.simulator.simulator configs/config.json -l -b 131072 -nn 1 -fcrc -o paper_sbs/sx1262_optimal/lorawan_128
+python3 -m loralite.simulator.simulator configs/config.json -l -b 262144 -nn 1 -fcrc -o paper_sbs/sx1262_optimal/lorawan_256
+python3 -m loralite.simulator.simulator configs/config.json -l -b 524288 -nn 1 -fcrc -o paper_sbs/sx1262_optimal/lorawan_512
+python3 -m loralite.simulator.simulator configs/config.json -l -b 1048576 -nn 1 -fcrc -o paper_sbs/sx1262_optimal/lorawan_1024
+python3 -m loralite.simulator.simulator configs/config.json -l -b 65536 -nn 1 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_optimal/lorawan_sx1262_128
+python3 -m loralite.simulator.simulator configs/config.json -l -b 131072 -nn 1 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_optimal/lorawan_sx1262_128
+python3 -m loralite.simulator.simulator configs/config.json -l -b 262144 -nn 1 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_optimal/lorawan_sx1262_256
+python3 -m loralite.simulator.simulator configs/config.json -l -b 524288 -nn 1 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_optimal/lorawan_sx1262_512
+python3 -m loralite.simulator.simulator configs/config.json -l -b 1048576 -nn 1 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_optimal/lorawan_sx1262_1024
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 1 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 5 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 10 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 15 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 20 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 25 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 30 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 35 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 40 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 45 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 50 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 55 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -nn 60 -td 329 -sbs -qof -cdppm 5 -gto -sstf -logc -fcrc -o paper_sbs/sx1262_performance/loralite_max
+python3 -m loralite.simulator.simulator configs/config.json -l -b 0 -nn 1 -td 329 -fcrc -o paper_sbs/sx1262_performance/lorawan_max
+python3 -m loralite.simulator.simulator configs/config.json -l -b 0 -nn 1 -td 329 -gwradio sx1262 -fcrc -o paper_sbs/sx1262_performance/lorawan_sx1262_max

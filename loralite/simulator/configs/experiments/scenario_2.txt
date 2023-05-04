@@ -1,0 +1,15 @@
+python3 -m loralite.simulator.simulator configs/config.json -td 329 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+#comment1
+python3 -m loralite.simulator.simulator configs/config.json -td 600 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+#comment2
+python3 -m loralite.simulator.simulator configs/config.json -td 900 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+# comment 3
+python3 -m loralite.simulator.simulator configs/config.json -td 1200 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 1500 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 1800 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 2100 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 2400 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 2700 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 3000 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 3300 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj
+python3 -m loralite.simulator.simulator configs/config.json -td 3600 -sbs -gto -nt WARMUP -cdppm 0 -sstf -st 2678400 -scenario 2 -en 10 -etj

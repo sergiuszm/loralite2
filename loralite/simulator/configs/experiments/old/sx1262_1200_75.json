@@ -1,0 +1,198 @@
+{
+    "general": {
+        "number_of_devices": 9,
+        "max_packet_nr": 10000,
+        "sim_duration_s": 31536000,
+        "sim_resolution": 100,
+        "sim_sensitive_part_resolution": 10,
+        "time_unit": "ms",
+        "second_in_unit": 1000,
+        "force_run": false
+    },
+    "locations": [
+        [
+            500,
+            0,
+            0
+        ],
+        [
+            1500,
+            0,
+            0
+        ],
+        [
+            500,
+            1500,
+            0
+        ],
+        [
+            0,
+            500,
+            0
+        ],
+        [
+            250,
+            200,
+            0
+        ],
+        [
+            250,
+            50,
+            0
+        ],
+        [
+            0,
+            100,
+            100
+        ],
+        [
+            50,
+            50,
+            50
+        ],
+        [
+            300,
+            450,
+            400
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            200,
+            500
+        ],
+        [
+            200,
+            200,
+            200
+        ],
+        [
+            100,
+            100,
+            0
+        ],
+        [
+            500,
+            1000,
+            0
+        ],
+        [
+            1200,
+            0,
+            0
+        ],
+        [
+            750,
+            100,
+            0
+        ],
+        [
+            400,
+            0,
+            400
+        ],
+        [
+            1000,
+            0,
+            10
+        ],
+        [
+            10,
+            900,
+            200
+        ],
+        [
+            200,
+            300,
+            500
+        ],
+        [
+            75,
+            75,
+            75
+        ]
+    ],
+    "device": {
+        "sch_on_duration_ms": 50,
+        "sch_off_duration_ms": 20
+    },
+    "radio": {
+        "receive_call_interval_ms": 10,
+        "mode_change_ms": 10
+    },
+    "wcm": {
+        "device_type": "arthemis_nano",
+        "radio_type": "sx1262",
+        "first_op_at_s": 3,
+        "send_delay_s": 0,
+        "send_interval_s": 1200,
+        "disc_interval_s": 600,
+        "first_disc_at_cmd_nr": -1,
+        "dc_interval_s": 600,
+        "first_dc_at_cmd_nr": -1,
+        "disc_every_n_cmd": 75,
+        "dc_every_n_cmd": -1,
+        "repeat_cmd_n_times": 2,
+        "disc_window_s": 5,
+        "dc_window_s": 5,
+        "dc_after_disc": true,
+        "save_schedule_to_file": true
+    },
+    "wcl": {
+        "device_type": "arthemis_nano",
+        "radio_type": "sx1262",
+        "first_op_at_s": 0,
+        "wait_before_s": 5,
+        "wait_after_s": 5,
+        "op_duration_ms": 500,
+        "reply_gt_ms": 50,
+        "dc_payload": "abcdefjkolfjAdfGiRbNdddFgFdErFdFasL"
+    },
+    "energy": {
+        "save_to_file": false,
+        "debug": false,
+        "v_load_drop": 0.014,
+        "device": {
+            "arthemis_nano": {
+                "sleep_a": 1e-06,
+                "on_a": 0.0005,
+                "op_a": 0.0,
+                "v": 5.025
+            }
+        },
+        "radio": {
+            "sx1276": {
+                "sleep_a": 7e-07,
+                "on_a": 0.0,
+                "rx_a": 0.012,
+                "tx_a": 0.12,
+                "v": 5.025
+            },
+            "sx1262": {
+                "sleep_a": 7e-07,
+                "on_a": 0.0,
+                "rx_a": 0.0043,
+                "tx_a": 0.12,
+                "v": 5.025
+            },
+            "ic880a_4paths": {
+                "sleep_a": 0.0,
+                "on_a": 0.0,
+                "rx_a": 0.288,
+                "tx_a": 0.3,
+                "v": 5.025
+            },
+            "ic880a_10paths": {
+                "sleep_a": 0.0,
+                "on_a": 0.0,
+                "rx_a": 0.428,
+                "tx_a": 0.3,
+                "v": 5.025
+            }
+        }
+    }
+}

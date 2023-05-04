@@ -1,0 +1,4 @@
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 131072 -n 1 -o 20210919_sbs/sx1262_optimal/lorawan_sx1262_128
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 262144 -n 1 -o 20210919_sbs/sx1262_optimal/lorawan_sx1262_256
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 524288 -n 1 -o 20210919_sbs/sx1262_optimal/lorawan_sx1262_512
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 1048576 -n 1 -o 20210919_sbs/sx1262_optimal/lorawan_sx1262_1024

@@ -1,0 +1,12 @@
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 1 -td 263 -o sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 5 -td 263 -o sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 10 -td 263 -o sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 15 -td 263 -o sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 20 -td 263 -o sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1276.json -c -d -b 0 -n 1 -td 263 -o sx1276_performance/loralite_max
+python3 loraw.py configs/loraw_sx1276.json -c -d -b 0 -n 5 -td 263 -o sx1276_performance/loralite_max
+python3 loraw.py configs/loraw_sx1276.json -c -d -b 0 -n 10 -td 263 -o sx1276_performance/loralite_max
+python3 loraw.py configs/loraw_sx1276.json -c -d -b 0 -n 15 -td 263 -o sx1276_performance/loralite_max
+python3 loraw.py configs/loraw_sx1276.json -c -d -b 0 -n 20 -td 263 -o sx1276_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -l -b 0 -n 1 -td 263 -o sx1262_performance/lorawan_max
+python3 loraw.py configs/loraw_sx1276.json -l -b 0 -n 1 -td 263 -o sx1276_performance/lorawan_max

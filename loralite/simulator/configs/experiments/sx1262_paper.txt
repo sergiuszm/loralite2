@@ -1,0 +1,150 @@
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 1 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 5 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 10 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 15 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 20 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 25 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 30 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 35 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 40 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 45 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 50 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 55 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 65536 -n 60 -sbs -o latest_sbs/sx1262_optimal/loralite_64
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 1 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 5 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 10 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 15 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 20 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 25 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 30 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 35 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 40 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 45 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 50 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 55 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 131072 -n 60 -sbs -o latest_sbs/sx1262_optimal/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 1 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 5 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 10 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 15 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 20 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 25 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 30 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 35 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 40 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 45 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 50 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 55 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 262144 -n 60 -sbs -o latest_sbs/sx1262_optimal/loralite_256
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 1 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 5 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 10 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 15 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 20 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 25 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 30 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 35 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 40 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 45 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 50 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 55 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 524288 -n 60 -sbs -o latest_sbs/sx1262_optimal/loralite_512
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 1 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 5 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 10 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 15 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 20 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 25 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 30 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 35 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 40 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 45 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 50 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 55 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -c -u -d -b 1048576 -n 60 -sbs -o latest_sbs/sx1262_optimal/loralite_1024
+python3 loraw.py configs/loraw_sx1262.json -l -b 65536 -n 1 -o latest_sbs/sx1262_optimal/lorawan_64
+python3 loraw.py configs/loraw_sx1262.json -l -b 131072 -n 1 -o latest_sbs/sx1262_optimal/lorawan_128
+python3 loraw.py configs/loraw_sx1262.json -l -b 262144 -n 1 -o latest_sbs/sx1262_optimal/lorawan_256
+python3 loraw.py configs/loraw_sx1262.json -l -b 524288 -n 1 -o latest_sbs/sx1262_optimal/lorawan_512
+python3 loraw.py configs/loraw_sx1262.json -l -b 1048576 -n 1 -o latest_sbs/sx1262_optimal/lorawan_1024
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 65536 -n 1 -o latest_sbs/sx1262_optimal/lorawan_sx1262_128
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 131072 -n 1 -o latest_sbs/sx1262_optimal/lorawan_sx1262_128
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 262144 -n 1 -o latest_sbs/sx1262_optimal/lorawan_sx1262_256
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 524288 -n 1 -o latest_sbs/sx1262_optimal/lorawan_sx1262_512
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 1048576 -n 1 -o latest_sbs/sx1262_optimal/lorawan_sx1262_1024
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 1 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 5 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 10 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 15 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 20 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 25 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 30 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 35 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 40 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 45 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 50 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 55 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -c -d -b 0 -n 60 -td 329 -sbs -o latest_sbs/sx1262_performance/loralite_max
+python3 loraw.py configs/loraw_sx1262.json -l -b 0 -n 1 -td 329 -o latest_sbs/sx1262_performance/lorawan_max
+python3 loraw.py configs/loraw_sx1262_lwan.json -l -b 0 -n 1 -td 329 -o latest_sbs/sx1262_performance/lorawan_sx1262_max
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 4 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 7 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 11 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 14 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 17 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 21 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 24 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 27 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 31 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 34 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 37 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 41 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 44 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 47 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 51 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 54 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 57 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 61 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 64 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 67 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 71 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 74 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 77 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 81 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 84 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 87 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 91 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 94 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 98 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 101 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 104 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 108 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 111 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 114 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 118 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 121 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 124 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 128 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 131 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 134 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 138 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 141 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 144 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 148 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 151 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 154 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 158 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 161 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 164 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 168 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 171 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 174 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 178 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 181 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 184 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 188 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 191 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 195 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 198 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128
+python3 loraw.py configs/loraw_sx1262.json -c -u -b 131072 -dw 110 -dcw 201 -n 60 -sbs -o latest_sbs/sx1262_dcw4/loralite_128

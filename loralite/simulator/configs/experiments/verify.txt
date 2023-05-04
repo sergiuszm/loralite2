@@ -1,0 +1,3 @@
+python3 -m loralite.simulator.simulator configs/config.json -td 600 -tni 500 -st 86400 -sbs -gto -nt UNKNOWN -di 100 -ndm 2 -sstf -qonmc -etj -sibbtp 10 -npe -scenario 5 -en 5
+
+python3 -m loralite.simulator.simulator configs/config.json -c -d -b 0 -td 1000 -sbs -qof -cdppm 5 -gto -sstf -logc -etj -npe -fcrc -st 86400 -n 5

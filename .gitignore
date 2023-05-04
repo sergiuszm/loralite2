@@ -1,0 +1,7 @@
+.vscode/
+data/
+__pycache__/
+colora.egg-info/
+.python-version
+poetry.lock
+test.py
